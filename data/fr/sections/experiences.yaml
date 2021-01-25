@@ -5,61 +5,99 @@ section:
   enable: true
   weight: 3
   showOnNavbar: true
-  template: sections/experiences.html
   # Can optionally hide the title in sections
   # hideTitle: true 
 
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
-    # company overview
-    overview: Example Co. est une entreprise largement reconnue pour le développement de l'utilisation des nuages. Elle construit des outils pour Kubernetes.
-  positions:
-  - designation: Ingénieur logiciel senior
-    start: Nov 2019
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
-    # give some points about what was your responsibilities at the company.
-    responsibilities:
-    - Concevoir et développer l'outil XYZ pour la tâche ABC.
-    - Concevoir, développer et gérer l'outil de reprise après sinistre [Xtool](https://www.example.com) qui sauvegarde les volumes, les bases de données et la définition des ressources du cluster de Kubernetes.
-    - Diriger l'équipe de soutien.
-
-  - designation: Ingénieur logiciel junior
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implémenter et tester la fonction xyz pour l'outil abc.
-    - Support client pour abc tool.
-    - Apprendre la technologie k,d,w pour xyz.
-
-- company:
-    name: PreExample Co.
-    url: "https://www.preexample.com"
-    location: Nowhere
-    overview: PreExample Co. est une société passerelle pour entrer dans Example co. Donc, rien de spécial ici.
-  positions:
-  - designation: Ingénieur logiciel
-    start: Mars 2016
-    end: Mai 2017
-    responsibilities:
-    - Rédigez de nombreux exemples de codes.
-    - Lire de nombreux exemples.
-    - Voir de nombreux exemples de vidéos.
-
-- company:
-    name: Intern Counting Company (ICC).
+    name: Convergence Informatique et Statistique.
     url: "https://www.intern.com"
-    location: Intern Land
-    overview: La Compagnie de comptage des stagiaires (ICC) est responsable du comptage des ingénieurs stagiaires du monde entier.
+    location: Dakar, Sénégal
+  #  overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
   positions:
-  - designation: Stagiaire
-    start: Juin 2015
-    end: Jan 2016
+  - designation: Intern 
+    start: Jan 2021
     responsibilities:
-    - Compte perdu des stagiaires.
-    - Comptez plus de stagiaires.
-    - Comptez-moi comme un stagiaire.
+    - Working on data warehousing project.
+    
+- company:
+    name: Consortium regional pour la recherche en économie générationnelle (CREG)
+    url: "https://creg-center.org/"
+    location: Dakar, Senegal 
+    # company overview
+    # overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+  positions:
+  # - designation: Senior Software Engineer
+  #   start: Nov 2019
+  #   # don't provide end date if you are currently working there. It will be replaced by "Present"
+  #   # end: Dec 2020
+  #   # give some points about what was your responsibilities at the company.
+  #   responsibilities:
+  #   - Design and develop XYZ tool for ABC task
+  #   - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
+  #   - Lead backend team.
+
+  - designation: Consultant
+    start: oct 2020
+    end: Oct 2020
+    responsibilities:
+    - Write and read a report.
+    - Thesis =Enquete rapide pour évaluer les effets de la maladie au nouveau coronavirus sur le projet SWEDD.
+- company:
+    name: Collaboration with phd student from EISMV.
+    url: "#"
+    location: Dakar, Sénégal
+  #  overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+  positions:
+  - designation: Data analyst
+    start: Apr 2020
+    end: Jun 2020
+    responsibilities:
+    - Data wrangling.
+    - Data prepocessing .
+    - Data analysis.
+    - Thesis="Caractérisation épidémiologique et économique de la fausse teigne à Galleria mellonela au Burkina Faso :Cas de la region apicole du Centre".
+- company:
+    name: Collaboration with phd student from EISMV.
+    url: "#"
+    location: Dakar, Sénégal
+  #  overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+  positions:
+  - designation: Data analyst
+    start: May 2020
+    end: Jul 2020
+    responsibilities:
+    - Data wrangling.
+    - Data prepocessing .
+    - Data analysis.
+    - Thesis="Seroprevalence et facteurs de risque de peripneumonie bovine au Burkina Faso en 2018".
+
+- company:
+    name: Ministry of Economy/DGEP/DPAM/Burkina faso.
+    url: "#"
+    location: Ouagadougou
+    #overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+  positions:
+  - designation: Intern statistician
+    start: Jul 2019
+    end: sept 2019
+    responsibilities:
+    - Participation in writing monthly economic report.
+    - Data collection.
+    - Writing a thesis on "Analyse des principaux indicateurs de suivi de la conjoncture=Cas du Burkina Faso".
+
+- company:
+    name: Collaboration with phd student from EISMV.
+    url: "#"
+    location: Dakar, Sénégal
+  #  overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+  positions:
+  - designation: Data analyst
+    start: sept 2018
+    end: nov 2018
+    responsibilities:
+    - Data wrangling.
+    - Data prepocessing .
+    - Data analysis.
+    - Thesis=Analyse institutionnelle du dispositif de lutte contre la rage au Burkina Faso (Cas de Ouagadougou.)
