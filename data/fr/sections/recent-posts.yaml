@@ -2,7 +2,7 @@
 section:
   name: Posts recents
   id: recent-posts
-  enable: true
+  enable: false
   weight: 5
   showOnNavbar: true
   template: sections/recent-posts.html

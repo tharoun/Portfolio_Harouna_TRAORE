@@ -68,7 +68,7 @@ params:
     favicon: /images/site/favicon.png
 
   # GitHub repo URL of your site
-  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+  gitRepo: https://github.com/tharoun/Portfolio_Harouna_TRAORE
   gitBranch: main
 
   # specify whether you want to write some blog posts or not

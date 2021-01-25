@@ -8,36 +8,35 @@ section:
   template: sections/about.html
 
 # your designation
-designation: "Développeur logiciel"
+designation: "Je suis Ingénieur statisticien à l'écoute du marché"
 # your company information
-company:
-  name: Example Co.
-  url: "https://www.example.com"
+#company:
+ # name: Example Co.
+  #url: "https://www.example.com"
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/resume.pdf"
+resume: "files/CV_Harouna_TRAORE_Français.pdf"
 
 # a summary about you
-summary: "Je suis un ingénieur en logiciel passionné, avec x années d'expérience professionnelle. J'ai construit des outils OSS pour [Kubernetes](https://kubernetes.io/) en utilisant GO. Mes outils aident les gens à déployer leurs charges de travail dans Kubernetes. Parfois, je travaille sur des projets amusants comme l'écriture d'un thème, etc."
-
+summary: "Je suis un ingénieur statisticien specialisé en informatique décisionnelle et passionné par la valorisation des données ainsi que leur mise au service de la prise de décision efficiente. A travers des projets académiques, j'ai une experience dans plusieurs domaines notamment les études économétriques, les études socio-demographiques, les statistiques agricoles,la gestion avancée de base de données ainsi que la fouille de données(data mining).J'ai en outre une maitrise parfaite des techniques de collecte de données de qualités ainsi que des outils  de traitements et d'analyse des données."
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  url: "tharouna90@gmail.com"
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
+  url: "https://github.com/tharoun"
 
-- name: Stackoverflow
-  icon: "fab fa-stack-overflow"
-  url: "#"
+# - name: Stackoverflow
+#   icon: "fab fa-stack-overflow"
+#   url: "#"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "#"
+  url: "https://www.linkedin.com/in/t6h7/"
 
 - name: Twitter
   icon: "fab fa-twitter"
@@ -46,25 +45,24 @@ socialLinks:
 - name: Facebook
   icon: "fab fa-facebook"
   url: "#"
-
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
-- name: Chef de projet
-  percentage: 85
+- name: Leadership
+  percentage: 95
   color: blue
 - name: Travail d'équipe
   percentage: 90
   color: yellow
 - name: Communication
-  percentage: 85
+  percentage: 90
   color: pink
-- name: Persévérant
-  percentage: 85
+- name: Persévérance 
+  percentage: 95
   color: green
-- name: Autonome
-  percentage: 85
+- name: Vitesse d'apprentissage
+  percentage: 90
   color: sky
 - name: Logique
   percentage: 85

@@ -2,7 +2,7 @@
 section:
   name: Realisations
   id: achievements
-  enable: true
+  enable: false
   weight: 6
   showOnNavbar: true
   template: sections/achievements.html
