@@ -1,50 +1,48 @@
 # section information
 section:
-  name: Competences
+  name: Skills
   id: skills
   enable: true
   weight: 2
   showOnNavbar: true
-  template: sections/skills.html
   # Can optionally hide the title in sections
   # hideTitle: true
 
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
-  logo: "/images/sections/skills/kubernetes.png"
-  summary: "Capable de déployer, de gérer l'application sur Kubernetes. Expérimenté dans la rédaction de contrôleurs Kubernetes pour les CRD."
-  url: "https://kubernetes.io/"
+- name: Survey management
+  logo: "/images/sections/skills/smartphone-1.png"
+  summary: "Capable of designing data collection tools,managing data collection applications and teams, Choosing a sample." 
 
-- name: Go
-  logo: "/images/sections/skills/go.png"
-  summary: "Utiliser comme langue principale pour le développement professionnel. Capable d'écrire des programmes évolutifs, testables et maintenables."
-  url: "https://golang.org/"
+- name: Econometric modelling
+  logo: "/images/sections/skills/trend.png"
+  summary: "Using econometrics models and statistical methods to solve problems in many fields like economy, public health ,agriculture and demography "
+ # url: "https://golang.org/"
 
-- name: Cloud Computing
-  logo: "/images/sections/skills/cloud.png"
-  summary: "A travaillé avec la plupart des principaux nuages tels que GCP, AWS, Azure, etc."
+- name: statistical tools
+  logo: "/images/sections/skills/technical-support.png"
+  summary: "I master all major statistical tools like SPSS, R, STATA etc."
 
-- name: Docker
-  logo: "/images/sections/skills/docker.svg"
-  summary: "Inscrivez la plupart des programmes en tant que conteneur déchargé. Expérimenté dans le processus de construction en plusieurs étapes et en plusieurs arcs."
-  url: "https://www.docker.com/"
+- name: Machine learning 
+  logo: "/images/sections/skills/machine-learning.png"
+  summary: "With python or R i can build all machine learning models and deploy them."
+  #url: "https://www.docker.com/"
 
-- name: Prometheus
-  logo: "/images/sections/skills/prometheus.png"
-  summary: "Capable d'installation, de configurer les métriques de Prometheus. Expérimenté avec PromQL, AlertManager. Expérimenté également dans la rédaction d'exportateurs de métriques."
-  url: "https://prometheus.io/"
+- name: Data base 
+  logo: "/images/sections/skills/database.png"
+  summary: "I'm able to design and to manage databases with SQL and SQLserver."
+  #url: "https://prometheus.io/"
 
-- name: Linux
-  logo: "/images/sections/skills/linux.png"
-  summary: "Utilisé comme système d'exploitation principal. Capable d'écrire des scripts bash/shell."
+- name: Pack office
+  logo: "/images/sections/skills/office.png"
+  summary: "Excel,Word or powerpoint has no secret for me anymore."
 
 - name: Git
   logo: "/images/sections/skills/git.png"
-  summary: "Expérimenté dans le développement basé sur les GIT. Surtout, utilisez Github. Avoir également une expérience de travail avec GitLab."
+  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
   url: "https://git-scm.com/"
 
-- name: C++
-  logo: "/images/sections/skills/c++.png"
-  summary: "Connaître les bases de la programmation C/C++. Utilisé pour la programmation de concours et la résolution de problèmes."
+# - name: C++
+#   logo: "/images/sections/skills/c++.png"
+#   summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
