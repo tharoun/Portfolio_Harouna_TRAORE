@@ -10,12 +10,12 @@ languages:
   en:
     languageName: English
     weight: 1
-  bn:
-    languageName: বাংলা
-    weight: 2
+  # bn:
+  #   languageName: বাংলা
+  #   weight: 2
   fr:
     languageName: Français
-    weight: 3
+    weight: 2
   # id:
   #   languageName: Indonesian
   #   weight: 4
