@@ -12,3 +12,5 @@ blogdown::build_site()
 blogdown::serve_site()
 #Arreter le server
 blogdown::stop_server()
+## Parametrage du site
+# https://toha-guides.netlify.app/posts/configuration/site-parameters/
