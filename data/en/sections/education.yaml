@@ -27,6 +27,40 @@ degrees:
  #   url: "#"
  # - title: Nullam vitae orci tincidunt purus viverra pulvinar.
   #  url: "#"
+- name: Data Science/AI engineer
+  icon: fa-graduation-cap
+  timeframe: 2020-2021
+  institution:
+    name: Africa TechUp Tour
+    url: "#"
+  # grade: #(optional)
+  #   scale: CGPA
+  #   achieved: 3.5
+  #   outOf: 4
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: false
+    courses:
+    - name: Python Programming
+      # achieved: 3.75
+      # outOf: 4
+    - name: Algorithms
+      achieved: 3.80
+      outOf: 4
+    - name: Machine learning
+      achieved: 3.80
+      outOf: 4
+    - name: Deep learning
+      achieved: 3.80
+      outOf: 4
+    - name: NLP
+      achieved: 3.80
+      outOf: 4
+    - name: Big Data
+      achieved: 3.80
+      outOf: 4
+    
+
 - name: Statistician engineer
   icon: fa-graduation-cap
   timeframe: 2017-2021
