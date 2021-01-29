@@ -19,7 +19,7 @@ experiences:
   - designation: Intern 
     start: Jan 2021
     responsibilities:
-    - Working on data warehousing project.
+    - Projet datawarehousing.
     
 - company:
     name: Consortium regional pour la recherche en économie générationnelle (CREG)
@@ -42,10 +42,10 @@ experiences:
     start: oct 2020
     end: Oct 2020
     responsibilities:
-    - Write and read a report.
-    - Thesis =Enquete rapide pour évaluer les effets de la maladie au nouveau coronavirus sur le projet SWEDD.
+    - Rédaction et lecture de rapport.
+    - Thème =Enquete rapide pour évaluer les effets de la maladie au nouveau coronavirus sur le projet SWEDD.
 - company:
-    name: Collaboration with phd student from EISMV.
+    name: Travaux de thèse EISMV/Dakar.
     url: "#"
     location: Dakar, Sénégal
   #  overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
@@ -54,12 +54,10 @@ experiences:
     start: Apr 2020
     end: Jun 2020
     responsibilities:
-    - Data wrangling.
-    - Data prepocessing .
-    - Data analysis.
-    - Thesis="Caractérisation épidémiologique et économique de la fausse teigne à Galleria mellonela au Burkina Faso :Cas de la region apicole du Centre".
+    - Analyse et Traitement de données.
+    - Thèse="Caractérisation épidémiologique et économique de la fausse teigne à Galleria mellonela au Burkina Faso :Cas de la region apicole du Centre".
 - company:
-    name: Collaboration with phd student from EISMV.
+    name: Travaux de thèse EISMV/Dakar.
     url: "#"
     location: Dakar, Sénégal
   #  overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
@@ -68,27 +66,25 @@ experiences:
     start: May 2020
     end: Jul 2020
     responsibilities:
-    - Data wrangling.
-    - Data prepocessing .
-    - Data analysis.
-    - Thesis="Seroprevalence et facteurs de risque de peripneumonie bovine au Burkina Faso en 2018".
+    - Analyse et Traitement de données.
+    - Thèse="Seroprevalence et facteurs de risque de peripneumonie bovine au Burkina Faso en 2018".
 
 - company:
-    name: Ministry of Economy/DGEP/DPAM/Burkina faso.
+    name: Ministère de l'économie, des finances et du développement.
     url: "#"
     location: Ouagadougou
     #overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
   positions:
-  - designation: Intern statistician
+  - designation: Stagiaire statisticien
     start: Jul 2019
     end: sept 2019
     responsibilities:
-    - Participation in writing monthly economic report.
-    - Data collection.
-    - Writing a thesis on "Analyse des principaux indicateurs de suivi de la conjoncture=Cas du Burkina Faso".
+    - Rédaction de la note mensuelle de conjoncture.
+    - Collecte de données.
+    - Rédaction d'un rapport sur "Analyse des principaux indicateurs de suivi de la conjoncture=Cas du Burkina Faso".
 
 - company:
-    name: Collaboration with phd student from EISMV.
+    name: Travaux de thèse EISMV/Dakar.
     url: "#"
     location: Dakar, Sénégal
   #  overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
@@ -97,7 +93,5 @@ experiences:
     start: sept 2018
     end: nov 2018
     responsibilities:
-    - Data wrangling.
-    - Data prepocessing .
-    - Data analysis.
-    - Thesis=Analyse institutionnelle du dispositif de lutte contre la rage au Burkina Faso (Cas de Ouagadougou.)
+    - Analyse et Traitement de données.
+    - Thèse=Analyse institutionnelle du dispositif de lutte contre la rage au Burkina Faso (Cas de Ouagadougou.)
