@@ -11,36 +11,36 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Survey management
+- name: Gestion d'enquête
   logo: "/images/sections/skills/smartphone-1.png"
-  summary: "Capable of designing data collection tools,managing data collection applications and teams, Choosing a sample." 
+  summary: "Capable de concevoir les outils de collecte numérique,de gerer le processus de collecte, de gerer l'application et les équipes, Tirer un echantillon." 
 
-- name: Econometric modelling
+- name: Modélisation économétrique
   logo: "/images/sections/skills/trend.png"
-  summary: "Using econometrics models and statistical methods to solve problems in many fields like economy, public health ,agriculture and demography "
+  summary: "Capable d'appliquer les techniques de modelisation statistique et économétrique sur des données préalablement traitées."
  # url: "https://golang.org/"
 
-- name: statistical tools
+- name: Logiciels statistiques
   logo: "/images/sections/skills/technical-support.png"
-  summary: "I master all major statistical tools like SPSS, R, STATA etc."
+  summary: "Parfaite maitrise des principqux logiciels d'analyse de données : SPSS, R, STATA etc."
 
 - name: Machine learning 
   logo: "/images/sections/skills/machine-learning.png"
-  summary: "With python or R i can build all machine learning models and deploy them."
+  summary: "Capable de construire et deployer les modèles de machine learning avec R ou Python."
   #url: "https://www.docker.com/"
 
 - name: Data base 
   logo: "/images/sections/skills/database.png"
-  summary: "I'm able to design and to manage databases with SQL and SQLserver."
+  summary: "Capable de concevoir et administrer une base de donnée."
   #url: "https://prometheus.io/"
 
 - name: Pack office
   logo: "/images/sections/skills/office.png"
-  summary: "Excel,Word or powerpoint has no secret for me anymore."
+  summary: "Parfaite maitrise des logiciels Word, Excel et PowerPoint."
 
 - name: Git
   logo: "/images/sections/skills/git.png"
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
+  summary: "Capable de travailler sur des projets collaboratifs avec GIT et GITLAB."
   url: "https://git-scm.com/"
 
 # - name: C++
