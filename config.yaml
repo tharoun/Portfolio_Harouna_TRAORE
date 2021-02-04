@@ -1,6 +1,6 @@
 baseURL: https://harounatraore.netlify.app/
 languageCode: en-us
-defaultContentLanguage: fr
+defaultContentLanguage: en
 title: "Harouna TRAORE's blog"
 theme: "toha"
 
